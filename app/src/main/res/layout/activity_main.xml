@@ -37,14 +37,16 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="SOY CONDUCTOR"
-                android:backgroundTint="@color/blue"/>
+                android:backgroundTint="@color/blue"
+                android:layout_marginRight="5dp"/>
             <Button
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="SOY CLIENTE"
                 android:backgroundTint="@color/white"
-                android:textColor="@color/black"/>
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"/>
         </LinearLayout>
 
     </LinearLayout>
