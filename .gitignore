@@ -1,0 +1,25 @@
+# Directorios y archivos generados automáticamente
+/build/
+/captures/
+/.externalNativeBuild/
+/.gradle/
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/caches
+/.idea/modules.xml
+/app/build/
+
+# Archivos generados por Android Studio
+.DS_Store
+/.idea/.name
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/gradle.xml
+
+# Archivos de construcción y salida de Gradle
+.gradle/
+/app/*/build/
+/app/*/output/
+.gradle
+
