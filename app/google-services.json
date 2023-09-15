@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079331338017",
+    "project_id": "motti-acff3",
+    "storage_bucket": "motti-acff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079331338017:android:6da990a608768e1aceb060",
+        "android_client_info": {
+          "package_name": "com.julhua.motti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUUz0S1_ptda8AI9-R2w_k1bLa9ngFso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
